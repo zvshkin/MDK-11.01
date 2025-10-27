@@ -1,0 +1,17 @@
+E:\Edu\MDK_11.01\PR-09\PR-09\bin\Debug\PR-09.exe.config
+E:\Edu\MDK_11.01\PR-09\PR-09\bin\Debug\PR-09.exe
+E:\Edu\MDK_11.01\PR-09\PR-09\bin\Debug\PR-09.pdb
+E:\Edu\MDK_11.01\PR-09\PR-09\bin\Debug\MySql.Data.dll
+E:\Edu\MDK_11.01\PR-09\PR-09\bin\Debug\System.Memory.dll
+E:\Edu\MDK_11.01\PR-09\PR-09\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Edu\MDK_11.01\PR-09\PR-09\bin\Debug\System.Numerics.Vectors.dll
+E:\Edu\MDK_11.01\PR-09\PR-09\bin\Debug\System.Buffers.dll
+E:\Edu\MDK_11.01\PR-09\PR-09\bin\Debug\MySql.Data.xml
+E:\Edu\MDK_11.01\PR-09\PR-09\obj\Debug\PR-09.csproj.AssemblyReference.cache
+E:\Edu\MDK_11.01\PR-09\PR-09\obj\Debug\PR_09.Form1.resources
+E:\Edu\MDK_11.01\PR-09\PR-09\obj\Debug\PR_09.Properties.Resources.resources
+E:\Edu\MDK_11.01\PR-09\PR-09\obj\Debug\PR-09.csproj.GenerateResource.cache
+E:\Edu\MDK_11.01\PR-09\PR-09\obj\Debug\PR-09.csproj.CoreCompileInputs.cache
+E:\Edu\MDK_11.01\PR-09\PR-09\obj\Debug\PR-09.csproj.Up2Date
+E:\Edu\MDK_11.01\PR-09\PR-09\obj\Debug\PR-09.exe
+E:\Edu\MDK_11.01\PR-09\PR-09\obj\Debug\PR-09.pdb
